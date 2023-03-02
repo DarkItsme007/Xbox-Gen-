@@ -534,7 +534,7 @@ def main(ms_creds : str , full_card : str):
         sprint("")
         Counter.Dead += 1
         ctypes.windll.kernel32.SetConsoleTitleW(
-                f"Supplierz - discord.gg/xboxz"
+                f"DarkXboxGen - @ccxhub In Tg"
                 f" | Hits: {Counter.Hit}"
                 f" - Linked: {Counter.Linked}"
                 f" - Dead: {Counter.Dead}")
@@ -957,7 +957,7 @@ def main(ms_creds : str , full_card : str):
         sprint(Fore.RED+f"[-] VCC: {vcc}")
         Counter.Dead =+1 
         ctypes.windll.kernel32.SetConsoleTitleW(
-                f"Supplierz - discord.gg/xboxz"
+                f"DarkXboxGen - @ccxhub In Tg"
                 f" | Hits: {Counter.Hit}"
                 f" - Linked: {Counter.Linked}"
                 f" - Dead: {Counter.Dead}")
@@ -972,7 +972,7 @@ def main(ms_creds : str , full_card : str):
         sprint(Fore.GREEN+f"VCC: {vcc}")
         Counter.Hit =+1
         ctypes.windll.kernel32.SetConsoleTitleW(
-                f"Supplierz - discord.gg/xboxz"
+                f"DarkXboxGen - @ccxhub In Tg"
                 f" | Hits: {Counter.Hit}"
                 f" - Linked: {Counter.Linked}"
                 f" - Dead: {Counter.Dead}")
@@ -985,7 +985,7 @@ def main(ms_creds : str , full_card : str):
         sprint(Fore.RED+f"[-] VCC: {vcc}")
         Counter.Dead =+1 
         ctypes.windll.kernel32.SetConsoleTitleW(
-                f"Supplierz - discord.gg/xboxz"
+                f"DarkXboxGen - @ccxhub In Tg"
                 f" | Hits: {Counter.Hit}"
                 f" - Linked: {Counter.Linked}"
                 f" - Dead: {Counter.Dead}")
