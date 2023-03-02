@@ -3,7 +3,7 @@ import json,secrets,threading,sys,requests,re,base64,hmac,hashlib,string,random,
 from colorama import init,Fore
 init()
 ctypes.windll.kernel32.SetConsoleTitleW(
-                f"Supplierz - discord.gg/xboxz")
+                f"Dark Suppliez Dark Xbox Gen")
 os.system('cls')
 print(Fore.RED+"""
 ░██████╗██╗░░░██╗██████╗░██████╗░██╗░░░░░██╗███████╗██████╗░███████╗
@@ -14,8 +14,8 @@ print(Fore.RED+"""
 ╚═════╝░░╚═════╝░╚═╝░░░░░╚═╝░░░░░╚══════╝╚═╝╚══════╝╚═╝░░╚═╝╚══════╝
 
                     Creator: Notlit
-                    Designer: Garv
-                    Discord: discord.gg/xboxz""")
+                    Credits: Flash & Itsme
+                    Discord: discord.gg/uhqlogs""")
 print("")
 print("")
 print("")
@@ -38,8 +38,8 @@ print(Fore.RED+"""
 ╚═════╝░░╚═════╝░╚═╝░░░░░╚═╝░░░░░╚══════╝╚═╝╚══════╝╚═╝░░╚═╝╚══════╝
 
                     Creator: Notlit
-                    Designer: Garv
-                    Discord: discord.gg/xboxz""")
+                    Designer: Flash & Itsme
+                    Discord: discord.gg/uhqlogs""")
 print("")
 print("")
 print("")
@@ -1046,8 +1046,8 @@ print(Fore.RED+"""
 ╚═════╝░░╚═════╝░╚═╝░░░░░╚═╝░░░░░╚══════╝╚═╝╚══════╝╚═╝░░╚═╝╚══════╝
 
                     Creator: Notlit
-                    Designer: Garv
-                    Discord: discord.gg/xboxz""")
+                    Designer: Flash & Itsme
+                    Discord: discord.gg/uhqlogs""")
 print("")
 print("")
 print("")
